@@ -1,0 +1,30 @@
+{
+  "name": "timedial",
+  "version": "0.0.1",
+  "description": "add and subtract to unix timestamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bhurlow/timedial.git"
+  },
+  "keywords": [
+    "timestamp",
+    "time",
+    "math"
+  ],
+  "author": "Brian Hurlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhurlow/timedial/issues"
+  },
+  "homepage": "https://github.com/bhurlow/timedial",
+  "dependencies": {
+    "monotonic-timestamp": "0.0.8"
+  },
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
