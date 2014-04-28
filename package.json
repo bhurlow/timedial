@@ -1,6 +1,6 @@
 {
   "name": "timedial",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "add and subtract to unix timestamps",
   "main": "index.js",
   "scripts": {
