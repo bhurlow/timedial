@@ -8,13 +8,12 @@ timestamps are great for leveldb ranges.
 
 ### usage
 
-```
+```javascript
 var dial = require('timedial')
 
 var moment = Date.now()
 
 var future = dial.forward(moment, 4, 'hours')
-
 ```
 
 ### methods
