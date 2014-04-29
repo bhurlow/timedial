@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/bhurlow/timedial",
   "dependencies": {
-    "monotonic-timestamp": "0.0.8"
   },
   "devDependencies": {
     "tape": "^2.12.3"
