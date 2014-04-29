@@ -45,7 +45,8 @@ function readable(timestamp) {
     d.getDate(),
     d.getUTCFullYear()
   ].join('/')
-  return parts
+  var time = d.toTimeString().split(' ')[0]
+  return parts + ' ' + time
 }
 
 
