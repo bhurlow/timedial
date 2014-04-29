@@ -5,6 +5,7 @@
 module.exports.back = back
 module.exports.forward = forward
 module.exports.readable = readable
+module.exports.epoch = 1398804432
 
 // units
 
